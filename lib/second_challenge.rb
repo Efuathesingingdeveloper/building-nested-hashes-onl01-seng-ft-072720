@@ -25,14 +25,7 @@ def second_challenge
       
     },
     :heroine_friends=> [
-      {
-        
-      },
-      {
-        :name => "Nurse",
-        :age => "44",
-        :attitude => "worried"
-      }
+      
     ]
   }
 }
